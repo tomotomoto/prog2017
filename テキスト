@@ -1,0 +1,96 @@
+import turtle
+t= turtle.Turtle()
+t.position()
+
+t.home()
+t.clear()
+
+for x in range(3):
+  t.forward(200)
+  t.left(120)
+  
+  
+  
+turtle.home()
+turtle.clear()
+turtle.forward(200)
+turtle.left(120)
+turtle.forward(200)
+turtle.left(120)
+turtle.forward(200)
+
+
+turtle.home()
+turtle.clear()
+
+
+for i in range(3):
+  turtle.forward(200)
+  turtle.left(120)
+  
+  
+  
+  
+  
+  
+turtle.home()
+turtle.clear()
+
+
+for i in range(5):
+  turtle.forward(200)
+  turtle.left(144)
+  
+  
+  
+t.home()
+t.clear()
+
+for c in range(4): 
+  for x in range(4):
+    t.forward(200)
+    t.left(90)
+  t.up()
+  t.foward(30)
+  t.down()
+
+
+for x in range(4):
+  t.forward(200)
+  t.left(90)
+t.up()
+t.foward(30)ccc
+t.down()
+
+for x in range(4):
+  t.forward(200)
+  t.left(90)
+t.up()
+t.foward(30)
+t.down()
+
+for x in range(4):
+  t.forward(200)
+  t.left(90)
+  
+  
+正解
+
+
+t.home()
+t.clear()
+
+for c in range(4): 
+  t.up()
+  t.forward(20)
+  t.down()
+  for x in range(4):
+    t.forward(100)
+    t.left(90)
+  t.left(-90)
+
+  
+  
+  
+  
+  
